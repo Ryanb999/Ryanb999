@@ -6,6 +6,6 @@ into AI/ML, startup building, and a bit of content creation.
 - 🌱 learning: data structures, python, react
 - 🚧 building: small shipped projects + portfolio-in-public
 - 🤝 down to collab on bite-size AI/ML ideas & hackathons
-- 📫 reach me: [LinkedIn](#) • [Twitter](#) • [Email](#)
+- 📫 reach me: [LinkedIn](#) 
 
 ps: always learning, always shipping. 🚀
